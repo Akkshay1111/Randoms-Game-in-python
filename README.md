@@ -1,5 +1,39 @@
 # Randoms-Game-in-python
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Ramdom Loop in python 
 
 import random
